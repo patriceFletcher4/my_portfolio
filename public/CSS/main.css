@@ -1,0 +1,36 @@
+html {
+  background-color: deepskyblue;
+  font-family: georgia, cursive, serif;
+}
+
+body {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#navigation {
+  width: 100%;
+  height: 100px;
+  background-color: floralwhite;
+  padding-top: 20px
+}
+
+/**/
+div#navigation li {
+  list-style: none;
+  display: inline;
+  margin-right: 350px
+}
+
+#navigation li a{
+  text-decoration: none;
+  color: blue;
+  font-size: 30px;
+}
+
+.btn {
+  width: 120px;
+  height: 70px;
+  background-color: aliceblue;
+  border: 2px solid aliceblue;
+}
