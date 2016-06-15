@@ -11,8 +11,8 @@ body {
 #navigation {
   width: 105%;
   height: 60px;
-  background-color: floralwhite;
-  padding-top: 10px
+  background-color: #d3d9de;
+  padding-top: 10px;
 }
 
 /**/
@@ -24,13 +24,17 @@ div#navigation li {
 
 #navigation li a{
   text-decoration: none;
-  color: deepskyblue;
-  font-size: 20px;
+  color: whitesmoke;
+  font-size: 15px;
 }
 
 .btn {
-  width: 120px;
+  width: 125px;
   height: 70px;
-  background-color: aliceblue;
-  border: 2px solid aliceblue;
+  background-color: deepskyblue;
+  border: 4px solid deepskyblue;
+}
+
+.profile {
+  width: 400px;
 }
